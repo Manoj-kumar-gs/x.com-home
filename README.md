@@ -7,10 +7,10 @@ A responsive clone of Twitter's homepage UI built with Tailwind CSS.
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-![Desktop UI](images/ui/ui-desktop-look)
+![Desktop UI](img/ui/ui-desktop-look.png)
 
 ### 📱 Mobile View  
-![Mobile UI](images/ui/ui-mobile-look)
+![Mobile UI](img/ui/ui-mobile-look.png)
 
 ---
 
