@@ -1,4 +1,4 @@
-# 🐦 x-twitter
+# x-twitter
 
 A responsive clone of Twitter's homepage UI built with Tailwind CSS.
 
@@ -6,11 +6,11 @@ A responsive clone of Twitter's homepage UI built with Tailwind CSS.
 
 ## 📸 Screenshots
 
-### 💻 Mobile View  
-![Mobile UI](img/ui/ui-desktop-look.png)
+### 💻 Desktop View  
+![Desktop UI](img/ui/ui-desktop-look.png)
 
-### 📱 Desktop View  
-![Desktop UI](img/ui/ui-mobile-look.png)
+### 📱 Mobile View  
+![Mobile UI](img/ui/ui-mobile-look.png)
 
 ---
 
